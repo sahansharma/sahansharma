@@ -40,14 +40,11 @@
 - Telegram Bots  
 - Trading Bots: Sniper Bot, Volume Bot, Signal Bot, Launch Bundling Bot
 
----
-
 ### Data Analysis & Visualization
 - Excel | Power BI | Tableau | Google Data Studio  
 - Jupyter Notebooks | Matplotlib | Seaborn | SQL Analytics  
 - BigQuery | Apache Spark | ETL Pipelines | Data Wrangling & Cleaning
 
----
 
 ### Business Management & Strategic Thinking
 - Agile & Scrum Methodologies  
