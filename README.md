@@ -5,7 +5,7 @@
 
 <!-- Optional Matrix Background (Static Image for README) -->
 <p align="center">
-  <img src="https://i.imgur.com/8nY2gqF.gif" alt="Matrix Background" width="100%" style="opacity: 0.2;" />
+  <img src="assets/Banner.jpg" alt="Matrix Background" width="100%" style="opacity: 0.2;" />
 </p>
 
 ![3dgifmaker36787](https://github.com/user-attachments/assets/e3124749-54c6-46b8-ac8e-278a94b7bd3d)
