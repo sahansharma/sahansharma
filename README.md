@@ -5,7 +5,7 @@
   </p>
 
   <p align="center" style="margin-top: -20px; margin-bottom: -20px;">
-    <img src="assets/banner.png" alt="Sahan Banner" width="100%" />
+    <img src="assets/Banner.jpeg" alt="Sahan Banner" width="100%" />
   </p>
 </div>
 
