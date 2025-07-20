@@ -13,48 +13,24 @@
 ![anypira](https://github.com/user-attachments/assets/3757dde2-d39d-4daf-a50f-015a0f912b15)
 ![python](https://github.com/user-attachments/assets/f8c4817f-b9db-4e95-b3cc-52b1997fc64f)
 
-## Skills & Technologies
+🌱 My Experiences
 
-### Web & Mobile Design and Frontend Development
-- Next.JS | Vue.JS | Angular | Svelte | Typescript | React Native | Expo
+• Web & Mobile Design and Frontend Development: Next.JS, Vue.JS, Angular, Svelte, Typescript, React Native, Expo
 
-### Backend Development
-- Node.JS | Rust | Elixir | Golang | Python | Laravel | Express.JS | NestJS | Spring Boot | . NET
+• Backend Development: Node.JS, Rust, Elixir, Golang, Python, Laravel, Express.JS, NestJS, Spring Boot, .NET
 
-### Database
-- PostgreSQL | MySQL | MongoDB | Firebase | Supabase | Prisma | TypeORM
+• Database: PostgreSQL, MySQL, MongoDB, Firebase, Supabase, Prisma, TypeORM
 
-### DevOps
-- CI/CD: GitHub, GitLab, Bitbucket  
-- AWS | Docker | Linux
+• DevOps: CI/CD (GitHub, GitLab, Bitbucket), AWS, Docker, Linux
 
-### Machine Learning / AI Development
-- TensorFlow | PyTorch | Fine-tuning  
-- Pandas | NumPy | OpenAI API | LangChain | Hugging Face | Pinecone
+• Machine Learning / AI Development: TensorFlow, PyTorch, Fine-tuning, Pandas, NumPy, OpenAI API, LangChain, Hugging Face, Pinecone
 
-### Blockchain Development
-- DePIN | DeFi | NFT | DApps | DEX | P2E  
-- Smart Contracts with Solidity, Rust, Cosmos SDK
+• Blockchain Development: DePIN, DeFi, NFT, DApps, DEX, P2E, Smart Contracts with Solidity, Rust, Cosmos SDK
 
-### Bot Development
-- Telegram Bots  
-- Trading Bots: Sniper Bot, Volume Bot, Signal Bot, Launch Bundling Bot
+• Bot Development: Telegram Bots, Trading Bots (Sniper Bot, Volume Bot, Signal Bot, Launch Bundling Bot)
 
-### Data Analysis & Visualization
-- Excel | Power BI | Tableau | Google Data Studio  
-- Jupyter Notebooks | Matplotlib | Seaborn | SQL Analytics  
-- BigQuery | Apache Spark | ETL Pipelines | Data Wrangling & Cleaning
+• Data Analysis & Visualization: Excel, Power BI, Tableau, Google Data Studio, Jupyter Notebooks, Matplotlib, Seaborn, SQL Analytics, BigQuery, Apache Spark, ETL Pipelines, Data Wrangling & Cleaning
 
+• Business Management & Strategic Thinking: Agile & Scrum Methodologies, OKRs & KPIs, Business Intelligence (BI), Market Research, Competitive Analysis, SWOT Analysis, Financial Modeling, Lean Startup Principles, Product Roadmapping, UX Strategy, Decision Making Frameworks (Eisenhower Matrix, Cost-Benefit Analysis), Growth Hacking Techniques, Project Management Tools (Jira, Trello, Asana)
 
-### Business Management & Strategic Thinking
-- Agile & Scrum Methodologies  
-- OKRs & KPIs  
-- Business Intelligence (BI)  
-- Market Research & Competitive Analysis  
-- SWOT Analysis & Financial Modeling  
-- Lean Startup Principles  
-- Product Roadmapping & UX Strategy  
-- Decision Making Frameworks (Eisenhower Matrix, Cost-Benefit Analysis)  
-- Growth Hacking Techniques  
-- Project Management Tools: Jira, Trello, Asana
 
