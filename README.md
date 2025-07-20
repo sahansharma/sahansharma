@@ -3,5 +3,4 @@
 ![Animated Preview](https://raw.githubusercontent.com/sahansharma/sahansharma/main/assets/anypira.gif)
 
 
-<gif-player src="https://raw.githubusercontent.com/sahansharma/sahansharma/main/assets/3dgifmaker36787.gif" play></gif-player>
-<h1>hello</h1>
+<img src="https://raw.githubusercontent.com/sahansharma/sahansharma/main/assets/3dgifmaker36787.gif" width="40" height="40" />
