@@ -1,13 +1,12 @@
-<!-- 🧠 Typing Intro -->
-<div style="background-color:#E9FBE5; padding: 20px 0; border-radius: 10px;">
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Sahan!;Data+Science+%7C+Full-Stack+Dev;Interests%3A+Business+|+Startups" alt="Typing SVG" />
-  </p>
+<!-- Glitchy Hacking Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=24&duration=1000&pause=500&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=Initializing+System...;Bypassing+Firewall...;Decrypting+Data+Stream...;Hacking+Sequence+Initiated...;System+Override+Complete" alt="Hacking Typing Animation" />
+</p>
 
-  <p align="center" style="margin-top: -20px; margin-bottom: -20px;">
-    <img src="assets/Banner.jpeg" alt="Sahan Banner" width="100%" />
-  </p>
-</div>
+<!-- Optional Matrix Background (Static Image for README) -->
+<p align="center">
+  <img src="https://i.imgur.com/8nY2gqF.gif" alt="Matrix Background" width="100%" style="opacity: 0.2;" />
+</p>
 
 ![3dgifmaker36787](https://github.com/user-attachments/assets/e3124749-54c6-46b8-ac8e-278a94b7bd3d)
 ![anypira](https://github.com/user-attachments/assets/3757dde2-d39d-4daf-a50f-015a0f912b15)
