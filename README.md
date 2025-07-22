@@ -9,3 +9,84 @@
 ![anypira](https://github.com/user-attachments/assets/3757dde2-d39d-4daf-a50f-015a0f912b15)
 ![python](https://github.com/user-attachments/assets/f8c4817f-b9db-4e95-b3cc-52b1997fc64f)
 
+```bash
+> INITIALIZING PROFILE...
+> FETCHING /home/sahan_sharma/data_stream...
+
+👾 Sahan Sharma [aka: Himalayan Coder]  
+🛰️ Developer | Data Analyst | Network Curious | AI Explorer  
+```
+
+---
+
+### 🧠 About Me
+
+```txt
+Origin: Curious eyes locked on animated graphs and glowing dashboards.
+Awakening: Earned the Google Data Analytics Certificate. Data started talking.
+Mission: Decode the tech universe — networking, cybersecurity, AI, and beyond.
+```
+
+> I’m driven by code that matters. The type that scales. That breaks old systems. That rebuilds faster.
+
+My obsession?  
+To **ship code that leaves a dent**, in milliseconds or in minds.
+
+---
+
+### ⚙️ Operating Protocol
+
+```yaml
+- Role: Full Stack Dev, Data Analyst, Cybersecurity Enthusiast
+- Frameworks: React | Django | Tailwind | Flask | Pandas
+- Current Focus:
+    - 👁️‍🗨️ Real-time data visualization
+    - ⚡ Speed-focused backend systems
+    - 🧠 AI and ML prototypes that *think*
+- Future Dreams:
+    - 🏛️ Harvard
+    - 🧬 40 Under 40 Times Square
+    - 🌐 Building a tech empire that redefines productivity
+```
+
+---
+
+### 🧬 Beliefs in Code
+
+```js
+while (true) {
+    learn();
+    build();
+    iterate();
+    stayCurious();
+}
+```
+
+> The only constant: speed + clarity + impact.
+
+---
+
+### 🔐 Fun Bits
+
+- Favorite Terminal Theme: Dracula (obviously 🦇)
+- Loves: Time travel theories, mind-mapping whiteboards, clean commits
+- Dislikes: Unnecessary meetings & poorly named variables
+
+---
+
+### 📡 Let’s Connect
+
+```json
+{
+  "email": "sahan.sharma@protonmail.com",
+  "github": "https://github.com/sahansharma",
+  "linkedin": "https://linkedin.com/in/sahansharma",
+  "network": "always open"
+}
+```
+
+---
+
+> “My repo isn’t just code. It’s a black box of speed, dreams, and silent revolutions.”
+
+`#SystemReady :: // Stay sharp. Stay curious. Hack the ordinary.`
