@@ -44,10 +44,6 @@ To **ship code that leaves a dent**, in milliseconds or in minds.
     - 👁️‍🗨️ Real-time data visualization
     - ⚡ Speed-focused backend systems
     - 🧠 AI and ML prototypes that *think*
-- Future Dreams:
-    - 🏛️ Harvard
-    - 🧬 40 Under 40 Times Square
-    - 🌐 Building a tech empire that redefines productivity
 ```
 
 ---
