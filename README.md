@@ -13,7 +13,7 @@
 > INITIALIZING PROFILE...
 > FETCHING /home/sahan_sharma/data_stream...
 
-👾 Sahan Sharma [aka: Himalayan Coder]  
+👾 Sahan Sharma [aka: Z3r0Pulse]  
 🛰️ Developer | Data Analyst | Network Curious | AI Explorer  
 ```
 
