@@ -79,7 +79,7 @@ while (true) {
 
 ```json
 {
-  "email": "sahan.sharma@protonmail.com",
+  "email": "sahansharma1000@gmail.com",
   "github": "https://github.com/sahansharma",
   "linkedin": "https://linkedin.com/in/sahansharma",
   "network": "always open"
